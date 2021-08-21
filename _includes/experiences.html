@@ -29,9 +29,23 @@
     </div><!--//details-->
     {% endif %}
 
+    {% if experience.description %}
+    <div class="description">
+      {{ experience.description | markdownify }}
+    </div><!--//upper-row-->
+    {% endif %}
+    {% if experience.goToProject %}
+      </br>
+      <span class="fa-stack fa-xs">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fas fa-tasks fa-stack-1x fa-inverse"></i>
+    </span>
+    <a href="https://{{ site.data.data.sidebar.website }}project.html#project">{{ experience.goToProject }}</a>
+    {% endif %}
   </div><!--//item-->
   {% endfor %}
 
 </section><!--//section-->
 {% endif %}
+
 

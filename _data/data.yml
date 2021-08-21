@@ -4,189 +4,494 @@
 
 sidebar:
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: True # set to False if you want an education in the main section instead of in the sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Kein Chan
+    tagline: Full Stack Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
+    email: chankeinjp@yahoo.co.jp
+    # phonecn: 136 7609 1404
+    phonejp: 080 9556 9252
+    website: chankein.github.io/Kein-cv/ #do not add http://
+    weixin: KEINCHAN85
+    line: chankein
+    # linkedin: alandoe
+    # xing: alandoe
+    # github: chankein
+    # telegram: # add your nickname without '@' sign
     gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    # http://localhost:4000/assets/resume_cn.pdf
+    # https://chankein.github.io/Kein-cv/assets/resume_cn.pdf
+    resume: https://chankein.github.io/Kein-cv/assets/resume_cn.pdf
+    # bitbucket:
+    # twitter: '@webjeda'
+    # stack-overflow: # Number/Username, e.g. 123456/alandoe
+    # codewars:
+    # goodreads: # Number-Username, e.g. 123456-alandoe
+    pdf: https://chankein.github.io/Kein-cv/assets/Resume_KeinChan(ChenQiying)_EN.pdf
+    excel: https://chankein.github.io/Kein-cv/assets/履歴書202312.xls
+    word: https://chankein.github.io/Kein-cv/assets/Resume_KeinChan(ChenQiying)_EN.docx
 
     languages:
-      - idiom: English
+      - idiom: Cantonese
         level: Native
 
-      - idiom: French
-        level: Professional
+      - idiom: Mandarin
+        level: Native
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: Japanese
+        level: Fluent:JLPT-N1
 
-    interests:
-      - item: Climbing
+      - idiom: English
+        level: Business:TOEFL-76
+
+    certification:
+      - item: Java SE8 Gold
         link:
 
-      - item: Snowboarding
+      - item: Linux Professional Institute Certification LPIC-1
         link:
 
-      - item: Cooking
+      - item: AWS Solution Architect Associate
         link:
+
+      - item: Python Engineer Certification
+        link:
+
+      - item: Abbyy FC 12 Solution Architect Certification Advanced
+        link:
+
+      - item: IT Passport
+        link:
+      
+      - item: Google Analytics Advanced
+        link:
+        
+      - item: Janpanese Certified Financial Planner (level 3)
+        link:
+
+      - item: The Official Business Skills Test in Bookkeeping (2nd Grade)
+        link:
+
+brief:
+    title: About Me
+    summary: |
+      Senior Engineer with over 8 years of experience in server-side development and practical AI/Big-Data projects, aside from server-side development, also has the ability to independently develop iOS and Windows programs.<br/>
+      Provide solutions for the Japanese Government, Toyota, Rakuten Pay, SoftBank, Fuji Film(Xerox), nanamusic, and Fujitsu Network Solutions.<br/>
+      <br/>
+    changelanguage: 轉中文
+    changelanguageurl: https://chankein.github.io/Kein-cv-zh/ 
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
-education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+      With over 8 years of experience as a full-stack engineer, I possess a diverse technical skill set. This includes strong programming capabilities, expertise in high-performance system design, extensive development experience in big data applications, and proficiency in investigating and researching multiple languages. Additionally, I have the ability to independently develop iOS and Windows programs.
+      <br/>
+      Throughout my career, I have contributed to renowned entities and enterprises such as the Japanese government, Toyota Group, Rakuten Pay, SoftBank Robotics, Fujifilm, Fujitsu, Nana Music, and the unicorn company Lamabang Limited. I have been praised for delivering swift, stable, and robust technical solutions for their projects.
+      <br/>
+      I am eager to leverage my technical expertise at your company, collaborating with the team to drive projects forward and achieve greater business value.
+      <br/>
+
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+
+    - role: Full Stack Engineer
+      time: 2022.10 - Present
+      company: Amigo Studio, Tokyo
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        - Rakuten Pay (Instant Payment) Project: Rakuten Pay is one of Japan's four major electronic payment platforms. I led the backend team in developing feature updates for the backend components of credit card and electronic payment/recharge functionalities.
+        - Nanamusic Project: Responsible for backend management development and system maintenance of the Japanese music creation app, Nanamusic. Promptly addressed system malfunctions caused by version updates and malicious attacks.
+        - Japanese Population Flow Statistics System: An internal project of Softbank, one of Japan's three major telecom operators. Managed the location information of mobile phones continuously by acquiring data from signal base stations and GPS positioning, forming a data warehouse covering about one-third of Japan's population. My primary responsibilities included verification investigation of the underlying framework and handling some visualization tasks.
+        - Japanese Travel Itinerary Auto-Generation App: An iOS project I developed independently. The app automatically plans travel itineraries based on user-inputted start and end points, mode of transportation, and travel destination information. The itinerary includes map navigation, transit routes, and a timetable.
+      
+    - role: Server-Side Engineer (Section Leader)
+      time: 2019.09 - 2022.10
+      company: Outsourcing Technology(TSE Code:2427), Tokyo 
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        Provided server-side solutions for TRI-AD, Fuji Film(Xerox), and Fujitsu Network Solutions.
+        - Designed and developed a Microstructure Services System that controls and manages over 3000 robots for Toyota Smart Logistics in Woven City.
+        - Developed 5 windows applications deploy OCR techs for the census registration system in the Japanese Government.
+        - Developed a network monitoring system that provides network failure self-detection and visualization for network device management in NTT core network by Fujitsu Network Solutions.
+      description: | 
+        abbr:
+        - TRI-AD: Toyota Research Institute - Advanced Development.
+        - Woven City: A future city that provides the latest mobility solutions with over 3000 residents built by the Toyota group.
+        - OCR: Optical Character Recognition
+        - NTT: Nippon Telegraph and Telephone
+
+    - role: Test Engineer (QC Manager)
+      time: 2018.06 - 2019.08
+      company: Oriental Kingdom Group Co., Ltd, Tokyo
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-projects:
-    title: Projects
+          - Responsible for quality control and bug reports of robot control software inside humanoid robot Pepper and central control server system.
+    
+    - role: Big Data Engineer
+      time: 2015.10 - 2018.05
+      company: Lamabang Technology Co., Ltd, Shenzhen
+      details: |
+        Provided data warehouse infrastructure solutions to cope with the increasing data process needs along with fast user-growth of APP from 300,000 to 3,400,000(DAU).<br/>
+        Furnish insights, analytics, and business intelligence needed to facility management's decision-making.<br/>
+        Monitored and diagnosed for data fluctuation exception.
+          - Developed an ETL data pipeline using SQL, Shell scripts, Python scripts, scala scripts from various sources that process daily data over 50 TB.
+          - Designed data warehouse models in accordance with spec requirements for APP statistic report of 3.4 millions DAU.
+          - Transformed business propositions into quantitative queries and then collected/cleaned necessary data. Created over 200 quantitative reports each year at the request of the Market Operation Department, Advertising Department, and the BI Department.
+          - Developed an API server to provide data support for server-side development teams.
+          - Developed an OSS system under database team with over 12 sections of data visualization web pages for routine data analyzing.
+          - Introduced machine-learning technology to help business decision-making.
+      description: | 
+        abbr:
+        - DAU: Daily Active Units
+        - ETL: Extract-Transform-Load
+        - BI : Business Intelligence
+
+    - role: System Engineer
+      time: 2014.04 - 2015.09
+      company: Lino-a Co., Ltd, Kyoto
+      details: |
+        Developed a multi-languages travel information system by WordPress for the inbound traveler.
+
+    - role: Video Editor
+      time: 2008.04 - 2009.09
+      company: Yuanmuyingshi Studio Co., Ltd, Zhuhai
+      details: |
+        Responsible for television program and video advertising editing.
+
+      goToProject: Click here to the project detail page.
+
+education:
+    - degree: Master Degree(MEc)
+      university: Osaka University, Japan
+      time: 2012.04 - 2014.03
+      details: |
+
+    - degree: 
+      university: Kokusyo Japanese-language school, Japan
+      time: 2010.10 - 2011.09
+      details: |
+        To prepare for entering exam of doctor program.
+
+    - degree: Bachelor Degree(BJ)
+      university: South China University of Technology, China
+      time: 2004.09 - 2008.07
+      details: |
+        p.
+    
+expertise:
+    title: Areas of Expertise
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      As a full-stack engineer, my core technology stack revolves around server-side development and big data applications. Additionally, I possess the capability to independently develop websites, smartphone applications, and desktop programs.
+      <br/>
+      In terms of programming languages, I am proficient in various languages such as Python, Java, R, SwiftUI, and C#. This versatility allows me to efficiently choose the most suitable language for project development based on specific requirements.
+      <br/>
+      Regarding server-side development, I am not only skilled in using frameworks like Django, Spring Boot, and Flask but also have experience in server automation management using Ansible on AWS/Azure cloud services and local servers. I can flexibly select and utilize AWS cloud services according to project needs.
+      <br/>
+      Furthermore, I have the ability to independently conduct WPF and SwiftUI development on Windows and iOS platforms. I have provided design, development, and testing services for AI/automation projects to notable clients such as the Japanese government, Toyota, and SoftBank Robotics. My work has not only improved project efficiency but also significantly optimized customer experiences.
+      <br/>
+      As a big data engineer, I am familiar with mainstream database systems like MySQL and OracleDB, as well as distributed data warehouse design in the Hadoop ecosystem with practical experience in DataBricks. I excel in point design, management, and data visualization. I have contributed as a member of the data team in developing an OSS data middle platform system, providing data visualization support for various departments, and proficiently using data visualization tools such as Power BI.
+      <br/>
+      In the realm of data applications, I bring rich experience, including data mining, user profile establishment, and intelligent recommendation system development. I have provided data support for user analysis, advertising placement, user retention strategies, and more for the company's operational app, effectively enhancing user engagement and business outcomes.
+
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
+      - title: Data Warehouse Design and Configuration
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Rich knowledge of databases, capable of abstracting business data into data structures and independently configuring data warehouses."
 
-      - title: Tempo
+      - title: Data Architecture Design
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Design Data architecture for business requirement needs"
 
-      - title: Atom
+      - title: Data Visualzation
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Quick data visualizing by Power BI, also have experince on developing data visualizing platform for customized requirements."
 
-      - title: Delta
+      - title: Data Mining
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Furnish insights, analytics, and business intelligence needed to assist management's decision-making"
 
-publications:
-    title: Publications
+      - title: Windows Apps Developing
+        link: "#"
+        tagline: "Develop windows Apps by C# & WPF framework"
+
+      - title: Software Quality Control
+        link: "#"
+        tagline: "Design & Conduct Test Case for Software Quality Control"
+
+      - title: Programming Languages
+        link: "#"
+        tagline: "Rich experience in Python, Java, and C#"
+
+      - title: Highly Effective Algorithm
+        link: "#"
+        tagline: "Always looking for improvement for higher effective algorithm"
+
+      - title: Nature Languages
+        link: "#"
+        tagline: "Being able to work in multiple languages - Chinese, Japanese, and English"
+
+      - title: Problem Shooting
+        link: "#"
+        tagline: "Diagnose failure issues and system bottleneck resources, then provide solution advice for better system performance"
+
+projects:
+    changelanguage: 轉中文
+    changelanguageurl: https://chankein.github.io/Kein-cv-zh/project.html 
+    backToTOp: Click here to Resume Page
+    title: Projects
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      My project experience primarily focuses on roles as a server-side engineer and in AI, as well as big data-related projects.
+      <br/>
+      In various projects, I have participated in the entire system lifecycle, from architecture design, development, testing to vulnerability patching, assuming the roles of a big data engineer, server-side engineer, and test engineer.
+      <br/>
+      When faced with a new project, I possess a multi-faceted perspective and am always ready to tackle various new challenges.
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+    project:
+      - title: Rakuten Pay
+        link: "https://payment.rakuten.co.jp/"
+        role: "Team Leader(Back-End)"
+        description: Rakuten Pay is a leading electronic payment software in Japan, and my team is responsible for the development tasks related to the server-side.
+        KeyAchievements: |
+          1. Manage project progress, assign tasks to team members, and follow up on issue resolutions through Jira.
+          1. Oversee the Code Review for the team to ensure code quality.
+          1. Review API design documents, testing perspectives (UT, IT, PT), and testing reports produced by team members.
+          1. Take charge of developing new features for Rakuten Pay and tasks related to integration with the app.
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Nanamusic Music App
+        link: "https://nana-music.com/"
+        role: "Server-Side Engineer"
+        Description: Nanamusic is a widely popular music creation app among Japanese music enthusiasts. As a server-side engineer on the team, I was responsible for the development and partial maintenance of the server-side.
+        KeyAchievements: |
+          1. Server-Side API Development and Maintenance: Managed the development and modification of server-side APIs, including UI/UT testing, ensuring application version updates while maintaining system stability and security.
+          1. CI/CD Process Optimization: Streamlined CI/CD tool processes, reducing the execution time of over 3600 server-side UI tests from 4 hours to 1 hour, significantly boosting development efficiency.
+          1. Cloud Service Management: Handled the IaC (Infrastructure as Code) development and management for cloud service platforms like AWS, reducing manual operation errors and enhancing system reliability.
+          1. Server Monitoring and Emergency Response: Monitored server resources, responded promptly to server failures, performed version rollbacks when necessary, and combated malicious attacks, such as IP blocking.
+          1. Operations Management Platform Development: Developed and improved the operations management platform, enhancing the operational team's efficiency in handling copyright infringements and timely updating of music data.
+
+      - title: National Population Flow Analysis
+        link: "https://www.softbank.jp/biz/services/analytics/ugoki/"
+        role: "Big Data Engineer"
+        description: The National Population Flow Analysis is a project implemented by Softbank, one of Japan's three major telecom operators. Utilizing data from Softbank's mobile phone base stations combined with terminal device location information, it generates population flow data. This data includes not only the distribution of people at different times and places but also their movement paths and modes of transportation, which are used for analyzing and predicting the movement dynamics of Japan's 120 million population.
+        KeyAchievements: |
+          1. Responsible for selecting and migrating from a local data warehouse to a cloud platform, ultimately choosing Databricks as the migration target. Ensured a smooth transition of existing systems and scripts through technical verification.
+          1. Handled the detection and tracking of abnormal data, providing data visualization tools on maps for pinpointing and analyzing data anomalies.
+
+      - title: Japan Travel Itinerary Auto-Generation App
+        link: ""
+        role: "Full Stack Engineer"
+        description: The Japan Travel Itinerary Auto-Generation App is a travel itinerary generation app that I developed independently. Users input their departure and destination points and select desired attractions, and the app generates a feasible travel route and schedule.
+        KeyAchievements: |
+          1. Drafted project plans, analyzing and organizing user requirements and technical implementation strategies.
+          1. Employed Figma for UI design.
+          1. Managed the project on GitHub Broad, including project progress control and issue management, achieving agile development.
+          1. Skillfully utilized SwiftUI, integrating modules like CloudKit and MapKit, devised the itinerary planning algorithm, and completed iOS program development.
+
+      - title: The Computerization Project for Family Register in Japan (Fuji Film)
+        link: "https://www.fujifilm.com/fbss/solution/public/"
+        role: "System Engineer"
+        description: The project is to detect mismatch data in the Certificate of Family Register in Japan by deploying OCR technology,
+                    and to correct data errors by autoprocessing.</br>
+        KeyAchievements: |
+                    1. Co-decided data processing for each task.
+                    1. Designed and built databases for each App.
+                    1. Created and maintained structured document definition in OCR process for scaned data.
+                    1. Created batches to enhence the precision of Optical Character Recognition.
+                    1. Designed UI/UX and created windows Apps when human involvement is required.
+                    1. Lead failure investigations, conduct necessary analysis and perform correction for OCR module failures.
+
+      - title: Toyota Smart Logistics System in Woven-City (Woven Planet)
+        link: "https://www.woven-city.global/"
+        role: "Server-Side Engineer"
+        description: Woven-city is a future smart city prototype developed by Toyota.</br>
+                    Toyota Smart Logistics System is one of the major functions in woven-city that provides door to door delivery service conducted by robots.</br>
+        KeyAchievements: |
+                    1. Abstract function model to entities model, designed system architecture base on microstructure architecture method.
+                    1. Designed data flow, database tables, inter-faces definitions and created relative specification documents.
+                    1. Created development/test/product environment individually base on container techonology via creating consistent and isolated docker-compose environments.
+                    1. Developed Microstructure Services including restful-api, mqtt, rabbitmq sender/receiver entities under Spring Boots framework.
+                    1. Designed and conducted test cases for unit test, integration test and functional test for quality control.
+                    1. Created mock data and developed stub entities in Python to develop internal interface and external system interface for testing purpose.
+
+      - title: vSure (Fujitsu)
+        link: "https://www.fujitsu.com/ca/en/products/network/products/vsure/"
+        role: "Server-Side Engineer"
+        description: vSure is a system that offers a multivendor one-stop solution that manages any technology across both physical and virtual infrastructure for Telecommunications companies.</br>
+        KeyAchievements: |
+                    1. Designed inter-faces definitions and created relative specification documents.
+                    1. Designed and conducted test cases for unit test and integration test for quality control.
+                    1. Diagnosed system bottleneck resource by creating monitoring scripts and analyzing system logs.
+                    1. Conducted code review and offer advice to optimize software performance.
+                    1. By conducting code refactoring to reduce the complexity of the algorithm that result in a reduce in total time cost from 700+ days to 10 minutes. 
+
+      - title: To Business Solution Project (Softbank Robotics)
+        link: "https://www.softbankrobotics.com/emea/en/pepper/"
+        role: "Test Engineer"
+        description: I was responsible for Quality Control in Apps development and the server-side management system for pepper.</br>
+        KeyAchievements: |
+                    1. Designed test cases for unit test, integration test, and functional test for pepper apps and server-side management system.
+                    1. Conducted UAT (User Acceptance Test) for apps install in pepper OS. Ensured the products meet quality and reliability requirements before they were released to consumers.
+                    1. Introduced selenium framework to conduct UX/UI automatic tests for the robot management system.
+                    1. Collected and analyzed logs uploaded from pepper system in AWS cloud server.
+                    1. Reproduced reported bugs and collected evidence to create bug reports to bug fix team.
+                    1. Traced bugs fix status by Redmine.
+                    
+      - title: Data Team in Lamabang Corp
+        link: "http://www.lamabang.com/article/detail/m-about.html/"
+        role: "Big-Data Engineer"
+        description: Lamabang is one of the biggest mobile social network for women in China. Besides the Lamabang app, Lamabang Crop runs 4 more related smartphone apps.</br>
+                    As a unicron company in China, the company face a challenge of explosive growth in data.
+                    The data team also provides data support for the cross-function team.
+        KeyAchievements: |
+                    1. Designed, defined, tested, and managed over 3400 data buried points for user behavior tracking and aggregate purpose.
+                    1. Programmed and implemented ETL processes and applications in SQL, shell scripts, Python scripts, and Scala scripts.
+                    1. Designed and deployed databases architecture and systems infrastructure for corporate IT systems.
+                    1. Built and maintained OSS system under database team for data visualization and Operation Support to help Product Manager Team.
+                    1. Developed automotive modules to monitor abnormal access, detect abnormal user behavior and send alarms by WeChat/E-mail to Operation And Maintenance Team in real-time.
+                    1. Paticipated in A/B experiments with the BI team to deploy new strategies online.  
+                    1. Introduced machine-learning technology to help create user profile and analyze user behavior modeling result in a 3.67% increase in 7 days User Retention Rate.
+
+skills-details:
+    title: Technical Skills
+    programming:
+          - name: Python
+            level: 98%
+
+          - name: R
+            level: 90%
+
+          - name: Java
+            level: 90%
+
+          - name: Scala
+            level: 90%
+
+          - name: Swift
+            level: 75%
+          
+          - name: C#
+            level: 75%
+
+
+    database:
+          - name: Mysql
+            level: 90%
+
+          - name: PostgreSQL
+            level: 90%
+
+          - name: OracleDB
+            level: 90%
+
+          - name: Hadoop
+            level: 75%
+
+    dataVisualization:
+          - name: Power BI
+            level: 90%
+
+          - name: Excel
+            level: 90%
+
+    versionControl:
+          - name: Github
+            level: 90%
+
+          - name: Git
+            level: 75%
+
+    platform:
+          - name: Linux
+            level: 90%
+
+          - name: Windows
+            level: 75%
+
+          - name: MacOS
+            level: 50%
+
+    cloudComputing:
+          - name: AWS
+            level: 50%
+
+          - name: Google Cloud
+            level: 30%
+
+    containerTechnology:
+          - name: Docker
+            level: 90%
+
+          - name: Vagrant
+            level: 75%
+
+          - name: Ansible
+            level: 75%
+
+    framework:
+          - name: Flask
+            level: 75%
+
+          - name: Django
+            level: 75%
+
+          - name: Spring Boot
+            level: 75%
+
+          - name: SwiftUI
+            level: 60%
+
+          - name: WPF
+            level: 60%
+
+    testTools:
+          - name: Pytest
+            level: 75%  
+
+          - name: JUnit
+            level: 75% 
+
+          - name: Selenium
+            level: 75% 
+
+          - name: Postman
+            level: 75% 
+
+    UIDesign:
+          - name: Photoshop
+            level: 75%
+          
+          - name: Figma
+            level: 75%
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Technical Skills
+    programming:
+          - name: Python,Java,Scala,Swift,C#
 
-    toolset:
-      - name: Python & Django
-        level: 98%
+    database:
+          - name: Mysql,PostgreSQL,OracleDB
 
-      - name: Javascript & jQuery
-        level: 98%
+    dataVisualization:
+          - name: PowerBI,Excel
 
-      - name: Angular
-        level: 98%
+    versionControl:
+          - name: Github,Git
 
-      - name: HTML5 & CSS
-        level: 95%
+    platform:
+          - name: Linux,Windows,MacOS
 
-      - name: Ruby on Rails
-        level: 85%
+    cloudComputing:
+          - name: AWS
 
-      - name: Sketch & Photoshop
-        level: 60%
+    containerTechnology:
+          - name: Docker,Vagrant,Ansible
 
+    framework:
+          - name: Spring Boot,Flask,Django,SwiftUI,WPF
+
+    testTools:
+          - name: Pytest,Junit,Selenium,Postman
+
+    UIDesign:
+          - name: Photoshop,Figma
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed by Chan Kein
